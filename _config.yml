@@ -29,8 +29,6 @@ github_username:  k3cs1
 
 # Build settings
 theme: jekyll-theme-hacker
-#theme: minima
-#remote_theme: pages-themes/hacker
 plugins:
   - jekyll-feed
 github: [metadata]
