@@ -31,7 +31,6 @@ github_username:  k3cs1
 theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
-#github: [metadata]
 github:
   repository_url: https://github.com/K3cs1
 
