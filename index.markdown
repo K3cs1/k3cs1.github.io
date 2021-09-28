@@ -16,8 +16,24 @@ layout: default
 | GitHub | [github.com/K3cs1][PlGh] |
 | LinkedIn | [www.linkedin.com/in/pal-kecskemeti][PlLn] |
 
+# Udemy certificates #
+- [Clean Code][UcCc]
+- [Oracle Java Certification - Pass the Associate 1Z0-808 Exam][UcOj]
+- [Design Patterns in Java][UcDj]
+- [Modern JavaScript From The Beginning][UcMj]
+- [The Gradle Masterclass][UcGm]
+- [Node JS Training and Fundamentals][UcNj]
+- [Complete Linux course: Become a Linux professional][UcCl]
+
    [PlGh]: <https://github.com/K3cs1>
    [PlLn]: <https://www.linkedin.com/in/pal-kecskemeti>
    [PlPh]: <https://parlament.hu>
    [PlMt]: <https://www.mytescomobile.com>
    [PlRw]: <https://payandgorewards.o2.co.uk>
+   [UcCc]: <https://www.udemy.com/certificate/UC-cfedefdd-bc19-4f54-981b-0552195c1c05>
+   [UcOj]: <https://www.udemy.com/certificate/UC-TANPMHZ9>
+   [UcDj]: <https://www.udemy.com/certificate/UC-bf064959-763d-4443-a9b9-afb8b6b8a1b7>
+   [UcMj]: <https://www.udemy.com/certificate/UC-RXDT9YJZ>
+   [UcGm]: <https://www.udemy.com/certificate/UC-ANWORGW4>
+   [UcNj]: <https://www.udemy.com/certificate/UC-PKCCUIDO>
+   [UcCl]: <https://www.udemy.com/certificate/UC-f5cf7cb9-0106-4449-853f-2cd0c7ee98fc>
