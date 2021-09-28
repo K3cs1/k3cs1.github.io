@@ -24,6 +24,8 @@ layout: default
 - [The Gradle Masterclass][UcGm]
 - [Node JS Training and Fundamentals][UcNj]
 - [Complete Linux course: Become a Linux professional][UcCl]
+- [Spring Framework 5: Beginner to Guru][UcSf]
+- [Docker for Java Developers][UcDo]
 
    [PlGh]: <https://github.com/K3cs1>
    [PlLn]: <https://www.linkedin.com/in/pal-kecskemeti>
@@ -37,3 +39,5 @@ layout: default
    [UcGm]: <https://www.udemy.com/certificate/UC-ANWORGW4>
    [UcNj]: <https://www.udemy.com/certificate/UC-PKCCUIDO>
    [UcCl]: <https://www.udemy.com/certificate/UC-f5cf7cb9-0106-4449-853f-2cd0c7ee98fc>
+   [UcSf]: <https://www.udemy.com/certificate/UC-CLR1TS82>
+   [UcDo]: <https://www.udemy.com/certificate/UC-HM4Z2JUQ>
