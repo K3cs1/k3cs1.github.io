@@ -5,7 +5,7 @@
 layout: default
 ---
 
-## Seior Java developer / P92 IT Solutions Kft., Hungary, Budapest.
+## Senior Java developer / P92 IT Solutions Kft., Hungary, Budapest.
 
 - *Barclays Premier Rewards*, based on E-Message plus. *Spring, Hibernate, MsSql,
 Liferay*. *PTB* and the *Barclays UK*: *PTB* is contained *REST WebServices*, UK is the new
