@@ -41,6 +41,7 @@ projects also.
 - [Spring Framework 5: Beginner to Guru][UcSf]
 - [Docker for Java Developers][UcDo]
 - [MongoDB with Java Spring Boot & Spring Framework][UcMs]
+- [RabbitMQ : Messaging with Java, Spring Boot And Spring MVC][UcRs]
 
    [PlGh]: <https://github.com/K3cs1>
    [PlLn]: <https://www.linkedin.com/in/pal-kecskemeti>
@@ -57,3 +58,4 @@ projects also.
    [UcSf]: <https://www.udemy.com/certificate/UC-CLR1TS82>
    [UcDo]: <https://www.udemy.com/certificate/UC-HM4Z2JUQ>
    [UcMs]: <https://www.udemy.com/certificate/UC-3a7d6404-5145-4197-b800-87bfd55930f4>
+   [UcRs]: <https://www.udemy.com/certificate/UC-5b0da720-9198-4e4e-b485-848b723f5a0b>
