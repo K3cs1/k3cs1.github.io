@@ -5,27 +5,10 @@
 layout: default
 ---
 
-## Senior Java developer / P92 IT Solutions Kft., Hungary, Budapest.
+## Senior Software engineer / Accenture Hungary, Budapest.
 
-- *Barclays Premier Rewards*, based on E-Message plus. *Spring, Hibernate, MsSql,
-Liferay*. *PTB* and the *Barclays UK*: *PTB* is contained *REST WebServices*, UK is the new
-Barclays European site.
-- *Allegiant* project. *Liferay 7, Java 8, Spring 4, Hibernate 5, Google ProtocolBuffer*,
-*MySql, and Tomcat, Microservice architecture*. *Allegiant* is a coupon management
-system for the Irish post (AnPost).
-- *Visoft Kft*: Outsourced for 8 months. MAVIR's SOFI project. *Java 8, Hibernate 5, Oracle
-*12c, Spring 4. Frontend: JS (ES5), Handlebars, CommonJS*.
-- In March of 2018, I was back to P92. I did some tasks on [parlament.hu][PlPh].
-- I am on *Tesco Mobile, O2 Microsites, O2 Loyalty, SMS Portal and the IVR Engine*
-*projects. Java 8, Liferay 7, JBoss, Struts, MariaDB, MSSQL, Liquibase, Hibernate*,
-*Spring Boot, Docker, Git, Gradle, Bash, Awk*. Web services: *REST and SOAP-based*. 
-Front-end is Liferay 7.3, there are *Struts 1, 2*
-portlets or new *Liferay MVC based portlets*. There are three main sites in Tesco
-Mobile: the Care, Admin and the [www.mytescomobile.com][PlMt]. The IVR is the
-automated call centre. The test and live systems use IBM DB2 database with stored
-procedures. In the locally the DB is MariaDB. Most of the outer systems working are
-simulated locally. I have tasks in the [payandgorewards.o2.co.uk][PlRw] and O2 Microsites
-projects also.
+- *Allianz UPR / PP project.* 2022.04.01 - 2022.12.31
+- *Deutsche Bahn TOPAS project.* 2023.01.23 - 2024.04.01
 
 | GitHub | [github.com/K3cs1][PlGh] |
 | LinkedIn | [www.linkedin.com/in/pal-kecskemeti][PlLn] |
