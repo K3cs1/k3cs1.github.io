@@ -9,7 +9,7 @@ layout: default
 
 - *Allianz UPR / PP project.* 2022.04.01 - 2022.12.31
 - *Deutsche Bahn TOPAS project.* 2023.01.23 - 2024.04.01
-- *CommerzBank project.* 2024.04.17 -
+- *CommerzBank project.* 2024.04.15 -
 
 | GitHub | [github.com/K3cs1][PlGh] |
 | LinkedIn | [www.linkedin.com/in/pal-kecskemeti][PlLn] |
