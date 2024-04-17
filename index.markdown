@@ -26,12 +26,10 @@ layout: default
 - [Docker for Java Developers][UcDo]
 - [MongoDB with Java Spring Boot & Spring Framework][UcMs]
 - [RabbitMQ : Messaging with Java, Spring Boot And Spring MVC][UcRs]
+- [Spring Boot Microservices with Spring Cloud Beginner to Guru][UcRt]
 
    [PlGh]: <https://github.com/K3cs1>
    [PlLn]: <https://www.linkedin.com/in/pal-kecskemeti>
-   [PlPh]: <https://parlament.hu>
-   [PlMt]: <https://www.mytescomobile.com>
-   [PlRw]: <https://payandgorewards.o2.co.uk>
    [UcCc]: <https://www.udemy.com/certificate/UC-cfedefdd-bc19-4f54-981b-0552195c1c05>
    [UcOj]: <https://www.udemy.com/certificate/UC-TANPMHZ9>
    [UcDj]: <https://www.udemy.com/certificate/UC-bf064959-763d-4443-a9b9-afb8b6b8a1b7>
@@ -43,3 +41,5 @@ layout: default
    [UcDo]: <https://www.udemy.com/certificate/UC-HM4Z2JUQ>
    [UcMs]: <https://www.udemy.com/certificate/UC-3a7d6404-5145-4197-b800-87bfd55930f4>
    [UcRs]: <https://www.udemy.com/certificate/UC-5b0da720-9198-4e4e-b485-848b723f5a0b>
+   [UcRt]: <https://www.udemy.com/certificate/UC-3cd1eb3f-fada-4169-998e-a18291dea396>
+  
