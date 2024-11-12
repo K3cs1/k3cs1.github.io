@@ -5,11 +5,10 @@
 layout: default
 ---
 
-## Senior Software engineer / Accenture Hungary, Budapest.
-
-- *Allianz UPR / PP project.* 2022.04.01 - 2022.12.31
-- *Deutsche Bahn TOPAS project.* 2023.01.23 - 2024.04.01
-- *CommerzBank project.* 2024.04.15 -
+## Senior Software engineer | Accenture Hungary, Budapest.
+- *Allianz UPR / PP project | Senior Java software engineer* 2022.04.01 - 2022.12.31
+- *Deutsche Bahn TOPAS project | Senior software engineer* 2023.01.23 - 2024.04.01
+- *CCB CommerzBank project | Lead software engineer / Scrum master* 2024.04.15 -
 
 | GitHub | [github.com/K3cs1][PlGh] |
 | LinkedIn | [www.linkedin.com/in/pal-kecskemeti][PlLn] |
