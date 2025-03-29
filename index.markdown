@@ -8,7 +8,7 @@ layout: default
 ## Senior Software engineer | Accenture Hungary, Budapest.
 - *Allianz UPR / PP project* | Senior Java software engineer | 2022.04.01 - 2022.12.31
 - *Deutsche Bahn TOPAS project* | Senior software engineer | 2023.01.23 - 2024.04.01
-- *CCB CommerzBank project* | Lead software engineer / Scrum master | 2024.04.15 -
+- *CCB CommerzBank project* | Senior software engineer | 2024.04.15 -
 
 | GitHub | [github.com/K3cs1][PlGh] |
 | LinkedIn | [www.linkedin.com/in/pal-kecskemeti][PlLn] |
@@ -26,6 +26,7 @@ layout: default
 - [MongoDB with Java Spring Boot & Spring Framework][UcMs]
 - [RabbitMQ : Messaging with Java, Spring Boot And Spring MVC][UcRs]
 - [Spring Boot Microservices with Spring Cloud Beginner to Guru][UcRt]
+- [Master Microservices with SpringBoot,Docker,Kubernetes][UcMn]
 
    [PlGh]: <https://github.com/K3cs1>
    [PlLn]: <https://www.linkedin.com/in/pal-kecskemeti>
@@ -41,4 +42,5 @@ layout: default
    [UcMs]: <https://www.udemy.com/certificate/UC-3a7d6404-5145-4197-b800-87bfd55930f4>
    [UcRs]: <https://www.udemy.com/certificate/UC-5b0da720-9198-4e4e-b485-848b723f5a0b>
    [UcRt]: <https://www.udemy.com/certificate/UC-3cd1eb3f-fada-4169-998e-a18291dea396>
+   [UcMn]: <https://www.udemy.com/certificate/UC-a426766d-f58b-4033-aabe-81e180040335>
   
