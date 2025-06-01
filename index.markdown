@@ -5,7 +5,7 @@
 layout: default
 ---
 
-## Senior Software engineer | Accenture Hungary, Budapest.
+## Senior Software Engineer | Accenture Hungary, Budapest.
 - *Allianz UPR / PP project* | Senior software engineer | 2022.04.01 - 2022.12.31
 - *Deutsche Bahn TOPAS project* | Senior software engineer | 2023.01.23 - 2024.04.01
 - *CCB CommerzBank project* | Senior software engineer | 2024.04.15 -
