@@ -13,6 +13,12 @@ layout: default
 | GitHub | [github.com/K3cs1][PlGh] |
 | LinkedIn | [www.linkedin.com/in/pal-kecskemeti][PlLn] |
 
+# My hobby projects #
+- [Tic-Tac-Toe Game][Tttrs]
+  / Rust, WebAssembly /
+- [Subtitle Translator App][SubTrn]
+  / Java 25, Spring Boot, Spring AI, React /
+
 # Udemy certificates #
 - [Clean Code][UcCc]
 - [Oracle Java Certification - Pass the Associate 1Z0-808 Exam][UcOj]
@@ -29,6 +35,7 @@ layout: default
 - [Spring Security Core: Beginner to Guru][UcSs]
 - [Spring Boot Microservices with Spring Cloud Beginner to Guru][UcRt]
 - [Master Microservices with SpringBoot,Docker,Kubernetes][UcMn]
+- [The Git & Github Bootcamp][GgBt]
 
    [PlGh]: <https://github.com/K3cs1>
    [PlLn]: <https://www.linkedin.com/in/pal-kecskemeti>
@@ -46,3 +53,6 @@ layout: default
    [UcRt]: <https://www.udemy.com/certificate/UC-3cd1eb3f-fada-4169-998e-a18291dea396>
    [UcMn]: <https://www.udemy.com/certificate/UC-a426766d-f58b-4033-aabe-81e180040335>
    [UcSs]: <https://www.udemy.com/certificate/UC-94e25c97-8384-4b89-8e14-a2582ce154ee>
+   [GgBt]: <https://www.udemy.com/certificate/UC-b9a9ae44-ed64-47c1-a933-3aaf05a7dfdd>
+   [Tttrs]: <https://d17lzqqtmm6hs0.cloudfront.net>
+   [SubTrn]: <https://d1yzzvrnimz8tw.cloudfront.net/index.html>
