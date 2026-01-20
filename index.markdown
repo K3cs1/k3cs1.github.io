@@ -8,7 +8,7 @@ layout: default
 ## Senior Java Software Engineer | Accenture Hungary, Budapest.
 - *Allianz UPR / PP project* | Senior Java Software Engineer | 2022.04.01 - 2022.12.31
 - *Deutsche Bahn TOPAS project* | Senior Java Software Engineer | 2023.01.23 - 2024.04.01
-- *CCB CommerzBank project* | Lead Java Software Engineer | 2024.04.15 -
+- *CCB CommerzBank project* | Senior Java Software Engineer | 2024.04.15 -
 
 | GitHub | [github.com/K3cs1][PlGh] |
 | LinkedIn | [www.linkedin.com/in/pal-kecskemeti][PlLn] |
@@ -27,13 +27,14 @@ layout: default
 - [The Gradle Masterclass][UcGm]
 - [Node JS Training and Fundamentals][UcNj]
 - [Complete Linux course: Become a Linux professional][UcCl]
-
 - [Docker for Java Developers][UcDo]
 - [MongoDB with Java Spring Boot & Spring Framework][UcMs]
 - [RabbitMQ : Messaging with Java, Spring Boot And Spring MVC][UcRs]
 - [Spring Framework 5: Beginner to Guru][UcSf]
+- [Spring Boot 4, Spring Framework 7: Beginner to Guru][UcSf6]
 - [Spring Security Core: Beginner to Guru][UcSs]
 - [Spring Boot Microservices with Spring Cloud Beginner to Guru][UcRt]
+- [Spring Framework DevOps on AWS][UcRt]
 - [Master Microservices with SpringBoot,Docker,Kubernetes][UcMn]
 - [The Git & Github Bootcamp][GgBt]
 
@@ -47,10 +48,12 @@ layout: default
    [UcNj]: <https://www.udemy.com/certificate/UC-PKCCUIDO>
    [UcCl]: <https://www.udemy.com/certificate/UC-f5cf7cb9-0106-4449-853f-2cd0c7ee98fc>
    [UcSf]: <https://www.udemy.com/certificate/UC-CLR1TS82>
+   [UcSf6]: <https://www.udemy.com/certificate/UC-86d75487-aae0-4af4-890a-06e32ff7b218>
    [UcDo]: <https://www.udemy.com/certificate/UC-HM4Z2JUQ>
    [UcMs]: <https://www.udemy.com/certificate/UC-3a7d6404-5145-4197-b800-87bfd55930f4>
    [UcRs]: <https://www.udemy.com/certificate/UC-5b0da720-9198-4e4e-b485-848b723f5a0b>
    [UcRt]: <https://www.udemy.com/certificate/UC-3cd1eb3f-fada-4169-998e-a18291dea396>
+   [UcDa]: <https://www.udemy.com/certificate/UC-e2896760-c2a4-4b4e-9f03-ceb5f5dbd265>
    [UcMn]: <https://www.udemy.com/certificate/UC-a426766d-f58b-4033-aabe-81e180040335>
    [UcSs]: <https://www.udemy.com/certificate/UC-94e25c97-8384-4b89-8e14-a2582ce154ee>
    [GgBt]: <https://www.udemy.com/certificate/UC-b9a9ae44-ed64-47c1-a933-3aaf05a7dfdd>
