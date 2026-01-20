@@ -5,7 +5,7 @@
 layout: default
 ---
 
-## Lead Java Software Engineer | Accenture Hungary, Budapest.
+## Senior Java Software Engineer | Accenture Hungary, Budapest.
 - *Allianz UPR / PP project* | Senior Java Software Engineer | 2022.04.01 - 2022.12.31
 - *Deutsche Bahn TOPAS project* | Senior Java Software Engineer | 2023.01.23 - 2024.04.01
 - *CCB CommerzBank project* | Lead Java Software Engineer | 2024.04.15 -
