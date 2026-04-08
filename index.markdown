@@ -37,6 +37,7 @@ layout: default
 - [Spring Framework DevOps on AWS][UcRt]
 - [Master Microservices with SpringBoot,Docker,Kubernetes][UcMn]
 - [The Git & Github Bootcamp][GgBt]
+- [GH-300: Github Copilot certificate][Gh300]
 
    [PlGh]: <https://github.com/K3cs1>
    [PlLn]: <https://www.linkedin.com/in/pal-kecskemeti>
@@ -56,6 +57,7 @@ layout: default
    [UcDa]: <https://www.udemy.com/certificate/UC-e2896760-c2a4-4b4e-9f03-ceb5f5dbd265>
    [UcMn]: <https://www.udemy.com/certificate/UC-a426766d-f58b-4033-aabe-81e180040335>
    [UcSs]: <https://www.udemy.com/certificate/UC-94e25c97-8384-4b89-8e14-a2582ce154ee>
-   [GgBt]: <https://www.udemy.com/certificate/UC-b9a9ae44-ed64-47c1-a933-3aaf05a7dfdd>
+   [GgBt]: <https://www.udemy.com/certificate/UC-b9a9ae44-ed64-47c1-a933-3aaf05a7dfdd>   
    [Tttrs]: <https://d17lzqqtmm6hs0.cloudfront.net>
    [SubTrn]: <https://d1yzzvrnimz8tw.cloudfront.net/index.html>
+   [Gh300]: <https://learn.microsoft.com/en-us/users/kecskemtipl-2248/transcript/vjoerhyy4elmm6o?wt.mc_id=certnurture_eml14_email_wwl&source=docs>
