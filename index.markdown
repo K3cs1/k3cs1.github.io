@@ -12,7 +12,7 @@ layout: default
 
 | GitHub | [github.com/K3cs1][PlGh] |
 | LinkedIn | [www.linkedin.com/in/pal-kecskemeti][PlLn] |
-| Ask AI about myself | [huggingface.co/spaces/k3cs1/career_conversation][PlCc] |
+| Ask AI about myself | [huggingface.co/spaces/k3cs1/career_conversation][Plcc] |
 
 # My hobby projects #
 - [Tic-Tac-Toe Game][Tttrs]
@@ -42,6 +42,7 @@ layout: default
 
    [PlGh]: <https://github.com/K3cs1>
    [PlLn]: <https://www.linkedin.com/in/pal-kecskemeti>
+   [Plcc]: <https://huggingface.co/spaces/k3cs1/career_conversation>
    [UcCc]: <https://www.udemy.com/certificate/UC-cfedefdd-bc19-4f54-981b-0552195c1c05>
    [UcOj]: <https://www.udemy.com/certificate/UC-TANPMHZ9>
    [UcDj]: <https://www.udemy.com/certificate/UC-bf064959-763d-4443-a9b9-afb8b6b8a1b7>
