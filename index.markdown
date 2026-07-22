@@ -12,6 +12,7 @@ layout: default
 
 | GitHub | [github.com/K3cs1][PlGh] |
 | LinkedIn | [www.linkedin.com/in/pal-kecskemeti][PlLn] |
+| Ask AI about myself | [huggingface.co/spaces/k3cs1/career_conversation][PlCc] |
 
 # My hobby projects #
 - [Tic-Tac-Toe Game][Tttrs]
